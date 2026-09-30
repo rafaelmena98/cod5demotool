@@ -1,0 +1,3 @@
+C:/Users/rafae/Desktop/Editing Stuff/cod5demotool/build/CMakeFiles/cod5demotool.dir
+C:/Users/rafae/Desktop/Editing Stuff/cod5demotool/build/CMakeFiles/edit_cache.dir
+C:/Users/rafae/Desktop/Editing Stuff/cod5demotool/build/CMakeFiles/rebuild_cache.dir
